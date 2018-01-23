@@ -1,2 +1,2 @@
 # Oxydom-plug
-Data plug generator for https://github.com/Oxydev-Software/Oxydom
+Data plug generator for [Oxydom](https://github.com/Oxydev-Software/Oxydom)
